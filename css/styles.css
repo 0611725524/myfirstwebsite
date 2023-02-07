@@ -1,0 +1,24 @@
+body{
+    background-color:bisque;
+        }
+        h1{
+            size: 20px;
+            
+        }
+        img{
+            background-color: greenyellow;
+        
+        }
+        .mushroom{
+            background-color: whitesmoke;
+        }
+        .watermelon{
+            background-color: red;
+        }
+        .circular{
+            border-radius: 100%;
+        }
+        
+        #heading{
+            color: blue;
+        }
